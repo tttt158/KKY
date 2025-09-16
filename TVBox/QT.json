@@ -1,0 +1,53 @@
+﻿//收集于网络，免费分享，仅供测试交流，禁止内置售卖！
+//PG主接口：http://www.fish2018.us.kg/p/jsm.json
+//PG备用接口：https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
+//ZX主接口:http://www.fish2018.us.kg/z/FongMi.json
+//ZX备用接口：https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json
+
+{ "urls": [
+
+{ "url": "http://127.0.0.1:9978/file/TVBox/tv/自建聚合平台.json", "name": "自建本地仓库" },
+
+{ "url": "http://127.0.0.1:9978/file/TVBox/tv/自建sex平台.json", "name": "自建sex本地仓库" },
+
+{ "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json", "name": "PG大佬仓库" },
+
+{ "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json", "name": "ZX大佬仓库" },
+
+{ "url": "https://gitee.com/glytv/tv/raw/main/0726.json", "name": "gly仓库" },
+
+{ "url": "http://www.meowtv.vip","name":"MeowTv仓库" },
+
+{ "url": "https://pandown.pro/tvbox/tvbox.json","name":"巧计仓库" },
+
+{ "url": "https://www.奇乐.xyz/ql0817.json", "name": "奇乐仓库" },
+
+{ "url":"https://raw.githubusercontent.com/yw88075/tvbox/refs/heads/main/dr/js.json","name":"yw88075仓库"},
+
+{ "url":"https://gitee.com/wsljg/other/raw/master/pandajk250104.json","name":"wsljg仓库"},
+
+{ "url":"https://盒子迷.top/春盈天下","name":"春莹天下仓库"},
+
+{ "url":"https://700sjro44343.vicp.fun/eggp/qzku/tv.json","name":"茄子库仓"},
+
+{ "url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json?ref_type=heads","name":"道长仓库"},
+
+{ "url":"https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json","name":"时光屋仓库"},
+
+{ "url":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json","name":"香雅情仓库"},
+
+{ "url":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/api.json","name":"Pizazzgy仓库"},
+
+{ "url":"https://raw.liucn.cc/box/m.json","name":"刘备仓库"},
+
+{ "url":"https://raw.githubusercontent.com/tuji-2015/miao/refs/heads/main/TVBox/tvbox.json","name":"喵影视仓库"},
+
+{ "url":"http://9xi4o.tk/0725.json","name":"4K云盘仓库"},
+
+{ "url":"http://ok321.top/ok","name":"OK杰哥仓库"},
+
+{ "url":"http://我不是.摸鱼儿.com","name":"摸鱼仓库"},
+
+{ "url":"http://tvbox.王二小放牛娃.top","name":"王二小仓库"},
+
+{ "url":"https://13413.kstore.space/tv/changqing.json","name":"科技长青仓库"}]}
