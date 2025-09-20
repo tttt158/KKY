@@ -479,6 +479,14 @@
       "changeable": 0,
       "timeout": 30},
     {
+      "key": "csp_yidong",
+      "name": "🧲移动┃磁力",
+      "type": 3,
+      "api": "csp_YD",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
+      "searchable": 1,
+      "quickSearch": 1},
+    {
       "key": "csp_pingguo",
       "name": "🧲苹果┃磁力",
       "type": 3,
@@ -487,14 +495,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1},
-    {
-      "key": "csp_yidong",
-      "name": "🧲移动┃磁力",
-      "type": 3,
-      "api": "csp_YD",
-      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
-      "searchable": 1,
-      "quickSearch": 1},
     {
       "key": "csp_guazi",
       "name": "🧲瓜子┃磁力",
@@ -1813,4 +1813,5 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
