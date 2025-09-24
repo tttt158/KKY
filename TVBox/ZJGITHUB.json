@@ -1,6 +1,6 @@
 {
      "version": "1.0",
-     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk542161114b3a47b98af196878e2e1748?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVi-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;ce8d9e839b59bff347b9531001125c9e",                      
+     "spider": "./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",                      
      "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
      "sites": [
     {
@@ -16,20 +16,20 @@
       "name": "🆕新片┃预告",
       "type": 3,
       "api": "csp_DouBan",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 0},
     {
       "key": "tt_bendi",
       "name": "📁本地┃资源",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe"},
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe"},
     {
       "key": "tt_wangpanpeizhi",
       "name": "⚙️网盘┃配置",
       "type": 3,
       "api": "csp_Config",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -39,7 +39,7 @@
       "name": "🔍人人┃搜索",
       "type": 3,
       "api": "./js/cloud.min.js",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./js/lib/renrensousuo.js",
       "style": {"type": "list"}},
     {
@@ -47,7 +47,7 @@
       "name": "🔍米搜┃搜索",
       "type": 3,
       "api": "./js/cloud.min.js",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./js/lib/misou.js",
       "style": {"type": "list"}},
     {
@@ -55,7 +55,7 @@
       "name": "🚀人人┃4K弹幕",
       "type": 3,
       "api": "./js/cloud.min.js",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./js/lib/renrenidanying4K.js",
       "style": {"type": "list"}},
     {
@@ -63,7 +63,7 @@
       "name": "🚀双星┃4K弹幕",
       "type": 3,
       "api": "./js/cloud.min.js",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./js/lib/shuangxing4K.js",
       "style": {"type": "list"}},
     {
@@ -71,7 +71,7 @@
       "name": "🚀校长┃4K弹幕",
       "type": 3,
       "api": "./js/cloud.min.js",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./js/lib/xiaozhang4K.js",
       "style": {"type": "list"}},
     {
@@ -79,7 +79,7 @@
       "name": "🚀夸父┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShareCloudKF",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -91,7 +91,7 @@
       "name": "🚀木偶┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -101,7 +101,7 @@
       "name": "🚀闪电┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -112,7 +112,7 @@
       "name": "🚀欧哥┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -123,7 +123,7 @@
       "name": "🚀玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -133,7 +133,7 @@
       "name": "🚀蜡笔┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -144,7 +144,7 @@
       "name": "🚀二小┃4K弹幕",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -198,9 +198,15 @@
       "name": "🎧酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk4b039a3e361b48adbd43c0aaecb5dd3e?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVk-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;b40f328ddc5becefbfca81db7bdca250",
+      "jar":"./jar/kugou.jar;md5;b40f328ddc5becefbfca81db7bdca250",
       "playerType": 2,
       "ext": { "classes": [ { "type_name": "酷狗", "type_id": "kugou" } ] } },
+    {
+      "key":"csp_qimi",
+      "name":"👻奇米┃动漫",
+      "type":3,
+      "api":"./js/drpy2.min.js",
+      "ext":"./js/lib/qimidongman.js"},
     {
       "key": "csp_qukanba",
       "name": "👻去看吧┃动漫",
@@ -218,7 +224,7 @@
       "name":"👻动漫巴士┃动漫",
       "type":3,
       "api":"csp_Dm84Guard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "searchable":1,
       "quickSearch":1,
@@ -228,7 +234,7 @@
       "name": "👻日本┃动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -428,7 +434,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": {"url": "https://apiapplbys.lbys.app:5678",
                    "dataKey": "apiapplbyskey168",
                    "dataIv": "apiapplbyskey168",
@@ -440,7 +446,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": {"url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
                    "dataKey": "k9o3p2c8b7m3z0o8",
                    "dataIv": "k9o3p2c8b7m3z0o8",
@@ -457,11 +463,19 @@
       "playerType": 2,
       "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
     {
+      "key": "apv2_xiaoleyingshi",
+      "name": "🎬小乐┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://www.kuloo.xyz/mogai_api.php/v1.vod"},
+    {
       "key": "csp_jianpian",
       "name": "🧲荐片┃磁力",
       "type": 3,
       "api": "csp_JPJGuard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -472,7 +486,7 @@
       "name":"🧲文采┃磁力",
       "type":3,
       "api":"csp_JpysGuard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout":10,
       "playerType":2,
       "searchable":1,
@@ -483,7 +497,7 @@
       "name":"🧲糯米┃磁力",
       "type":3,
       "api":"csp_NmyswvGuard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout":10,
       "searchable":1,
       "quickSearch":1,
@@ -493,7 +507,7 @@
       "name": "🧲厂长┃磁力",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gkc11f5e31fc1c4419a567fffcab6791f3?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVg-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D ;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -504,7 +518,7 @@
       "name": "🧲木耳┃磁力",
       "type": 3,
       "api": "csp_Hmer",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk41334c69ac6241beabcf47d72e907e36?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVh-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;526453ebc8f8f6c30fb2aec9252dced0",
+      "jar":"./jar/muer.png;md5;526453ebc8f8f6c30fb2aec9252dced0",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -514,7 +528,7 @@
       "name": "🧲移动┃磁力",
       "type": 3,
       "api": "csp_YD",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1},
     {
@@ -522,7 +536,7 @@
       "name": "🧲苹果┃磁力",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1},
@@ -531,7 +545,7 @@
       "name": "🧲瓜子┃磁力",
       "type": 3,
       "api": "csp_Gz360",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1},
@@ -540,7 +554,7 @@
       "name": "🧲电影天堂┃磁力",
       "type": 3,
       "api": "csp_DyGod",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1},
@@ -549,7 +563,7 @@
       "name": "🧲爱看┃磁力",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1},
@@ -593,14 +607,14 @@
       "name": "⏮️永乐┃直连",
       "type": 3,
       "api": "csp_HBPQ",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./json/yongleyingshi.json"},
     {
       "key": "csp_saohuozhilian",
       "name": "⏮️骚火┃直连",
       "type": 3,
       "api": "csp_HBPQ",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk20f9f44d4dd442cd9492ad82fed44031?x-cli-msg=%7B%22linkId%22%3A%221rmX0HrlYVm-36NPQ%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D;md5;067712de15e254fee9153a51128cddbe",
+      "jar":"./jar/spider2.jar;md5;067712de15e254fee9153a51128cddbe",
       "ext": "./json/saohuoyingshi.json"},	
     {
       "key": "csp_dianyinggang",
@@ -648,6 +662,29 @@
       "filterable": 0,
       "ext":"./json/zaixiandianying.json"},
     {
+      "key": "csp_TVByunbo",
+      "name": "🌎TVB云播┃网络",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"分类url": "http://www.viptv01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
+                  "分类": "剧集$2#综艺$3#动漫$4#电影$1#短剧$5",
+                  "类型": "无||大陆综艺$21#香港综艺$22#日韩综艺$23#欧美综艺$24||国产动漫$25#日韩动漫$26#港台动漫$27#欧美动漫$28||无||无",
+                  "剧情": "古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&商战||无||无||喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&悬疑&惊悚&青春&文艺&古装&历史&运动&儿童||喜剧&爱情&剧情&悬疑&古装",
+                  "地区": "大陆&香港&韩国&台湾&日本&美国&泰国&英国&新加坡&其他||无||无||大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&美国&日本&韩国&泰国"}},
+    {
+      "key": "csp_niuyueyingyuan",
+      "name": "🌎纽约影院┃网络",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"分类url": "https://www.nycvod.com/vodshow/{cateId}-{area}-{class}------{catePg}---{year}.html",
+                  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$50#竞技体育$5#伦理片$8#记录片$29"}},
+    {
       "key": "csp_wangfeiTV",
       "name": "🌎网飞TV┃网络",
       "type": 3,
@@ -658,7 +695,7 @@
       "ext": {"分类url": "https://www.158599.xyz/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html",
                   "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$5#短剧$47",
                   "类型":"无||无||大陆综艺$31#港台综艺$32#日韩综艺$34#欧美综艺$36#其他综艺$37||国产动漫$38#日韩动漫$39#欧美动漫$40#其他动漫$41||无||女频恋爱$53#反转爽剧$54#脑洞悬疑$55#年代穿越$56#古装仙侠$57#现代都市$58",
-                  "剧情":"喜剧&爱情&恐怖&动作&科幻&剧情&战争&犯罪&动画&奇幻&武侠&冒险&悬疑&惊悚&古装&||爱情&古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史||无||无||无||无",
+                  "剧情":"喜剧&爱情&恐怖&动作&科幻&剧情&战争&犯罪&动画&奇幻&武侠&冒险&悬疑&惊悚&古装||爱情&古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史||无||无||无||无",
                   "地区":"中国&香港&台湾&美国&韩国&法国&英国&日本&德国&泰国&印度&意大利&西班牙&加拿大&其它||中国&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其它||无||无||内地&香港&台湾&美国&韩国&法国&英国&日本&德国&泰国&印度&意大利&西班牙&加拿大&其他||无"}},
     {
       "key": "csp_honghuli",
@@ -667,8 +704,7 @@
       "api": "csp_XBPQ",
       "ext": {"分类url": "https://honghuli.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
                   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$21
-                              ||无||无||无"}},
+                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$21||无||无||无"}},
     {
       "key": "csp_xiuhua",
       "name": "🌎绣花影视┃网络",
@@ -676,8 +712,7 @@
       "api": "csp_XBPQ",
       "ext": {"分类url": "https://honghuli.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
                   "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33#赛事$32#解说$5",
-                  "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11
-                                #战争片$12#纪录片$21||无||无||无||无||无||无"}},
+                  "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$21||无||无||无||无||无||无"}},
     {
       "key":"csp_iysdqyingyuan",
       "name":"🌎iysdq影院┃网络",
@@ -765,15 +800,7 @@
       "api":"csp_XBPQ",
       "ext":{"分类url":"http://hsfzpyxx.com.cn/vcatalog/{cateId}.html",
                  "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#韩国剧$hanguoju#短剧$duanju",
-                 "类型":"犯罪片$fanzuipian#喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian
-                               #恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#惊悚片$jingsongpian
-                               #悬疑片$xuanyipian#灾难片$zainanpian
-                               #记录片$jilupian#动画片$donghuapian#伦理片$lunlipian
-                               ||国产剧$guochanju#香港剧$xianggangju#欧美剧$oumeiju#台湾剧$taiwanju#日本剧$ribenju
-                               #海外剧$haiwaiju#泰国剧$taiguoju
-                               ||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi
-                               ||国产动漫$guochandongman#欧美动漫$oumeidongman#日本动漫$ribendongman#里番动漫$lifandongman
-                               ||无||无"}},
+                 "类型":"犯罪片$fanzuipian#喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#惊悚片$jingsongpian#悬疑片$xuanyipian#灾难片$zainanpian#记录片$jilupian#动画片$donghuapian#伦理片$lunlipian||国产剧$guochanju#香港剧$xianggangju#欧美剧$oumeiju#台湾剧$taiwanju#日本剧$ribenju#海外剧$haiwaiju#泰国剧$taiguoju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#欧美动漫$oumeidongman#日本动漫$ribendongman#里番动漫$lifandongman||无||无"}},
     {
       "key":"csp_stmcu",
       "name":"🌎stmcu影院┃网络",
@@ -863,9 +890,7 @@
       "api":"csp_XBPQ",
       "ext":{"分类url":"https://www.pdd6.com/frim/{cateId}.html",
                   "分类":"电影$1#电视剧$2#动漫$3#福利$4#综艺$20",
-                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$25
-                               ||国产剧$13#香港剧$14#台湾剧$15#美国剧$16#韩国剧$21#日本剧$22#泰国剧$23#海外剧$24
-                               ||无||无||无"}},
+                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$25||国产剧$13#香港剧$14#台湾剧$15#美国剧$16#韩国剧$21#日本剧$22#泰国剧$23#海外剧$24||无||无||无"}},
     {
       "key":"csp_luyu56",
       "name":"🌎luyu56┃网络",
@@ -896,12 +921,7 @@
       "api":"csp_XBPQ",
       "ext":{"分类url":"https://www.dyyz2.com/vodtype/{cateId}.html",
                  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$49",
-                 "类型":"动作片$6#喜剧片$7/{area}#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#武侠片$47
-                              #冒险片$46#奇幻片$35#犯罪片$34#灾难片$36#悬疑片$37#惊悚片$38#纪录片$33#其他片$40
-                              ||国产剧$13#港台剧$14#日韩剧$20#泰国剧$21#欧美剧$22#其他剧$39
-                              ||大陆综艺$27#港台综艺$28#日韩综艺$29#欧美综艺$30
-                              ||国产动漫$23#港台动漫$48#日韩动漫$24#欧美动漫$25#海外动漫$26
-                              ||无"}},
+                 "类型":"动作片$6#喜剧片$7/{area}#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#武侠片$47#冒险片$46#奇幻片$35#犯罪片$34#灾难片$36#悬疑片$37#惊悚片$38#纪录片$33#其他片$40||国产剧$13#港台剧$14#日韩剧$20#泰国剧$21#欧美剧$22#其他剧$39||大陆综艺$27#港台综艺$28#日韩综艺$29#欧美综艺$30||国产动漫$23#港台动漫$48#日韩动漫$24#欧美动漫$25#海外动漫$26||无"}},
     {
       "key":"csp_duboku",
       "name":"🌎独播库┃网络",
@@ -909,10 +929,7 @@
       "api":"csp_XBPQ",
       "ext":{"分类url":"https://www.lhxifu.com/vodtype/{cateId}.html",
                   "分类":"电影$1#电视剧$2#动漫$4#综艺$3#动画片$28#影视解说$29#短剧$30",
-                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$20
-                               #犯罪片$21#悬疑片$22#纪录片$23
-                               ||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$24#泰国剧$25#欧美剧$26#海外剧$27
-                               ||无||无||无||无||无"}},                
+                  "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$20#犯罪片$21#悬疑片$22#纪录片$23||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$24#泰国剧$25#欧美剧$26#海外剧$27||无||无||无||无||无"}},                
     {
       "key":"csp_qiangqiangyingshi",
       "name":"🌎强强影视┃网络",
