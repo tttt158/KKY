@@ -336,13 +336,6 @@
       "order_num": 0,
       "ext": "./js/lib/dianyingxiaozhen.js"},
     {
-      "key": "drpy_js_nangua",
-      "name": "🎬南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/lib/nanguayingshi.js"},
-    {
       "key": "drpy_js_juquanquan",
       "name": "🎬剧圈圈┃影视",
       "type": 3,
@@ -1829,4 +1822,5 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
