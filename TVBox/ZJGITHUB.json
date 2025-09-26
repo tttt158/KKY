@@ -193,6 +193,7 @@
       "name":"👻奇米┃动漫",
       "type":3,
       "api":"./js/drpy2.min.js",
+      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
       "ext":"./js/lib/qimidongman.js"},
     {
       "key": "csp_qukanba",
@@ -1828,3 +1829,4 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
