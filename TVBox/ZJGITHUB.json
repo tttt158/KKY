@@ -412,16 +412,6 @@
       "changeable": 1,
       "ext": "http://www.kuloo.xyz/mogai_api.php/v1.vod"},
     {
-      "key": "csp_33yingshi",
-      "name": "🧲三三┃磁力",
-      "type": 3,
-      "api": "csp_SP33",
-      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0},
-    {
       "key": "csp_jianpian",
       "name": "🧲荐片┃磁力",
       "type": 3,
@@ -464,6 +454,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1},
+    {
+      "key": "csp_33yingshi",
+      "name": "🧲三三┃磁力",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0},
     {
       "key": "csp_mezy",
       "name": "🧲木耳┃磁力",
@@ -1821,3 +1821,4 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
