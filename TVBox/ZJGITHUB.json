@@ -1,5 +1,5 @@
 {
-     "spider": "./jar/spider2.jar;md5;6e838da9f7faaf72b5ca1d7bfdced3c9",
+     "spider": "./jar/spider.jar;md5;6e838da9f7faaf72b5ca1d7bfdced3c9",
      "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
      "sites": [
     {
@@ -173,7 +173,7 @@
       "name":"👻动漫巴士┃动漫",
       "type":3,
       "api":"csp_Dm84Guard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "searchable":1,
       "quickSearch":1,
@@ -183,7 +183,7 @@
       "name": "👻日本┃动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -416,7 +416,7 @@
       "name": "🧲荐片┃磁力",
       "type": 3,
       "api": "csp_JPJGuard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -427,7 +427,7 @@
       "name":"🧲文采┃磁力",
       "type":3,
       "api":"csp_JpysGuard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout":10,
       "playerType":2,
       "searchable":1,
@@ -438,7 +438,7 @@
       "name":"🧲糯米┃磁力",
       "type":3,
       "api":"csp_NmyswvGuard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout":10,
       "searchable":1,
       "quickSearch":1,
@@ -448,7 +448,7 @@
       "name": "🧲厂长┃磁力",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "jar":"./jar/spider3.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -1821,4 +1821,3 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
-
