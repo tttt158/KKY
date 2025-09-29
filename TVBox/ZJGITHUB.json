@@ -1381,8 +1381,8 @@
       {"name": "tvbox直播源",  "url": "http://etaishun.com/m3u8",  "type": 0,  "playerType": 2},
       {"name": "D大佬直播",  "url": "http://rihou.cc:567/gggg.nzk",  "type": 0,  "playerType": 2,  "ua":"okhttp/3.15"},
       {"name": "暮雨直播源",  "url": "https://4key.cn/FP",  "type": 0,  "playerType": 2,  "ua":"okhttp/3.15"},
-      { "name": "电视直播",  "url": "https://tv-1.iill.top/m3u/Gather", "ua": "okhttp/3.15", "type": 0, "playerType": 2},
-      {"name": "平台直播",  "url": "https://tv-1.iill.top/m3u/Live",  "type": 0, "playerType": 2},
+      {"name": "电视直播",  "url": "https://tv.iill.top/m3u/Gather", "ua": "okhttp/3.15", "type": 0, "playerType": 2},
+      {"name": "平台直播",  "url": "https://m.iill.top/Live.m3u",  "type": 0, "playerType": 2},
       {"name": "BiliBili直播",  "url": "https://www.goodiptv.club/bililive.m3u",  "type": 0,  "playerType": 2},
       {"name": "YY直播",  "url": "https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top",   "type": 0,  "playerType": 2},
       {"name": "斗鱼直播",  "url": "https://live.freetv.top/douyuyqk.m3u",  "type": 0,  "playerType": 2},
@@ -1852,4 +1852,5 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
