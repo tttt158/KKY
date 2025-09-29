@@ -1,5 +1,4 @@
 {
-     "version": "1.0",
      "spider": "./jar/spider2.jar;md5;6e838da9f7faaf72b5ca1d7bfdced3c9",
      "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
      "sites": [
@@ -102,7 +101,7 @@
       "name": "🅱️哔哩┃综合",
       "type": 3,      
       "api": "csp_Bili",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -113,7 +112,7 @@
       "name": "🅱️哔哩┃影视",
       "type": 3,      
       "api": "csp_Bili",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -155,7 +154,7 @@
       "name":"👻奇米┃动漫",
       "type":3,
       "api":"./js/drpy2.min.js",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "ext":"./js/lib/qimidongman.js"},
     {
       "key": "csp_qukanba",
@@ -195,7 +194,7 @@
       "name": "👻动漫岛┃动漫",
       "type": 3,
       "api": "csp_XPathMacFilter",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -413,6 +412,16 @@
       "changeable": 1,
       "ext": "http://www.kuloo.xyz/mogai_api.php/v1.vod"},
     {
+      "key": "csp_33yingshi",
+      "name": "🧲三三┃磁力",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0},
+    {
       "key": "csp_jianpian",
       "name": "🧲荐片┃磁力",
       "type": 3,
@@ -574,7 +583,7 @@
       "name": "⏮️Libvio┃直连",
       "type": 3,
       "api": "csp_XPathMacFilter",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -584,7 +593,7 @@
       "name": "⏮️348电影┃直连",
       "type": 3,
       "api": "csp_XPathFilter",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -594,7 +603,7 @@
       "name": "⏮️在线电影┃直连",
       "type": 3,
       "api": "csp_XPath",
-      "jar":"./jar/spider.jar;md5;ce8d9e839b59bff347b9531001125c9e",
+      "jar":"./jar/fm.jar;md5;602fb3226d777850053484cdeb2f3296",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1206,7 +1215,7 @@
                                 "动画片","内地剧","香港剧","日剧","欧美剧","台湾剧","马泰剧","韩剧","中国动漫",
                                 "日本动漫","欧美动漫","伦理片","综艺","体育赛事","短剧"],
       "header": { "user-agent":
-                               "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 EdgA/139.0.0.0"}},
+                                                    "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 EdgA/139.0.0.0"}},
     {
       "key": "tt_niuniu",
       "name": "🕵牛牛┃采集",
@@ -1812,9 +1821,3 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
-
-
-
-
-
-
