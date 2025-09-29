@@ -60,24 +60,6 @@
       "ext": "./js/lib/shuangxing4K.js",
       "style": {"type": "list"}},
     {
-      "key": "csp_xiaozhang",
-      "name": "🚀校长┃4K弹幕",
-      "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/lib/xiaozhang4K.js",
-      "style": {"type": "list"}},
-    {
-      "key": "csp_kuafu",
-      "name": "🚀夸父┃4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShareCloudKF",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {"type": "list","ratio": 1.433},
-      "ext": "./json/kuafu4K.json"},
-    {
       "key": "csp_muou",
       "name": "🚀木偶┃4K弹幕",
       "type": 3,
@@ -86,16 +68,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/muou4K.json"},
-    {
-      "key": "csp_shangdian",
-      "name": "🚀闪电┃4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/shandian4K.json"},
     {
       "key": "csp_ouge",
       "name": "🚀欧哥┃4K弹幕",
@@ -115,16 +87,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/wanou4K.json"},
-    {
-      "key": "csp_labi",
-      "name": "🚀蜡笔┃4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/labi4K.json"},
     {
       "key": "csp_erxiao",
       "name": "🚀二小┃4K弹幕",
@@ -1850,6 +1812,7 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
 
 
