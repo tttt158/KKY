@@ -133,7 +133,7 @@
       "name": "🎦虎牙┃直播",
       "type": 3,
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy2.js",
       "ext": "./js/lib/huyazhibo.js"},
     {
       "key": "drpy_js_douyu",
@@ -1889,6 +1889,7 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
 
 
