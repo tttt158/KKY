@@ -200,6 +200,16 @@
       "filterable": 1,
       "ext": "./json/dongmandao.json"},
     {
+      "key": "py_hema",
+      "name": "📀河马┃短剧",
+      "type": 3,
+      "api": "./py/hemaduanju.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2},
+    {
       "key": "py_tianquan",
       "name": "📀甜圈┃短剧",
       "type": 3,
@@ -1889,6 +1899,7 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
 
 
