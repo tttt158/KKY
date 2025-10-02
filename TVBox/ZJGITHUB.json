@@ -134,7 +134,7 @@
       "type": 3,
       "playerType": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/lib/huyazhibu.js"},
+      "ext": "./js/lib/huyazhibo.js"},
     {
       "key": "drpy_js_douyu",
       "name": "🎦斗鱼┃直播",
@@ -1877,3 +1877,4 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
