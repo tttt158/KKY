@@ -129,18 +129,23 @@
       "api": "./py/yangshipianku.py",
       "ext": "./py/yangshipianku.py"},
     {
-      "key": "drpy_js_huya",
+      "key": "csp_huya",
       "name": "🎦虎牙┃直播",
       "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.js",
-      "ext": "./js/lib/huyazhibo.js"},
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/huyazhibo.json"},
     {
-      "key": "drpy_js_douyu",
+      "key": "csp_douyu",
       "name": "🎦斗鱼┃直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/lib/douyuzhibo.js"},
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/douyuzhibo.json"},
     {
       "key": "csp_kugou",
       "name": "🎧酷狗┃音乐",
@@ -1918,4 +1923,5 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
 
