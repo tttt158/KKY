@@ -447,6 +447,14 @@
       "quickSearch": 1,
       "filterable": 1},
     {
+      "key":"csp_bite",
+      "name":"🧲比特┃磁力",
+      "type":3,
+      "api":"csp_BttwooGuard",
+      "jar":"./jar/spider1.jar;md5;bcaa35ff60c87f537cf509da3c40411e",
+      "searchable":1,
+      "changeable":1},
+    {
       "key": "csp_jianpian",
       "name": "🧲荐片┃磁力",
       "type": 3,
@@ -1910,3 +1918,4 @@
                  "cdnjs.hnfenxun.com",
                  "cms.qdwght.com"]
    }
+
